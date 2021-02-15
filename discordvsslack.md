@@ -9,3 +9,5 @@
 | Status system        | Slack has fairly good custom statuses                                                         | Until recently, Discord did not have custom statuses, but could be hacked. Its primary method for statuses is based on a list of the running applications, and is optimized for video games. |
 | Emoji                | Slack has custom emoji, and fairly good primary ones, and an easy emoji access method         | Discord is about the same |
 | Integration          | Slack has apps, which I've not messed with.                                                   | Discord has an easy bot api and webhooks, which work very well with Github and others. |
+| Accessibilty/Ease of use| Slack has a fairly good mobile/desktop app and a *very* clunky web interface | Discord has simple, smooth, and intuitive user interfaces on web, mobile, and desktop
+| Non-text communication | Slack has voice calls and (premium-only) video calls | Discord has free multi-user voice channels and free screen-share/video calls
